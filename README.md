@@ -54,7 +54,7 @@ bash -c "$(curl -L git.io/xray-yes-en)"
 
 - Install
 ```
-bash -c "$(curl -L git.io/xray-yes-en)" - install
+bash -c "$(curl -L https://git.io/JGzGg)" - install
 ```
 
 - Update
